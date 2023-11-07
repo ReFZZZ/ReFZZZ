@@ -9,7 +9,6 @@
  
  TO DO: 
  Repository(Sandbox) for: 
-- Pure Hibernate
 - Java
 - JavaScript
 - Python
