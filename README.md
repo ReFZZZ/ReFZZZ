@@ -9,9 +9,10 @@
  
  TO DO: 
  Repository(Sandbox) for: 
-- JavaScript
-- Python
-
+- JavaScript </br>
+### 📝  In preparation
+- Python (Machine Learning)
+- Flashcards ver. 2
 # Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Fiszki-polsko-norweskie-app)](https://github.com/ReFZero/Fiszki-polsko-norweskie-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Fiszki-polsko-norweskie-ConverterArrayToJSON)](https://github.com/ReFZero/Fiszki-polsko-norweskie-ConverterArrayToJSON)
