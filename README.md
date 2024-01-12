@@ -8,8 +8,6 @@
  These repositories are for playing with code. </br>
  
  TO DO: </br>
- Repository(Sandbox) for: 
-- JavaScript </br>
 ### 📝  In preparation
 - Python (Machine Learning)
 
@@ -22,6 +20,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Fiszki-polsko-norweskie-ConverterArrayToJSON)](https://github.com/ReFZero/Fiszki-polsko-norweskie-ConverterArrayToJSON) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-Hibernate)](https://github.com/ReFZero/Sandbox-Hibernate) 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-REST-API)](https://github.com/ReFZero/Sandbox-REST-API) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-Spring-Security)](https://github.com/ReFZero/Sandbox-Spring-Security)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-Java-App)](https://github.com/ReFZero/Sandbox-Java-App) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-RabbitMQ)](https://github.com/ReFZero/Sandbox-RabbitMQ)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-JavaScript-App)](https://github.com/ReFZero/Sandbox-JavaScript-App)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refzero&hide_progress=true)
