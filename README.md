@@ -22,4 +22,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-Java-App)](https://github.com/ReFZero/Sandbox-Java-App) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-RabbitMQ)](https://github.com/ReFZero/Sandbox-RabbitMQ)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-JavaScript-App)](https://github.com/ReFZero/Sandbox-JavaScript-App)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refzero&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReFZero)](https://github.com/anuraghazra/github-readme-stats)
