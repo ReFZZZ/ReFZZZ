@@ -17,7 +17,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Flashcards)](https://github.com/ReFZero/Flashcards) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Flashcards-Website)](https://github.com/ReFZero/Flashcards-Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Fiszki-polsko-norweskie-app)](https://github.com/ReFZero/Fiszki-polsko-norweskie-app) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Fiszki-strona-internetowa)](https://github.com/ReFZero/Fiszki-strona-internetowa)
 
- https://github.com/ReFZero/Flashcards-Website
 ## Other repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Fiszki-polsko-norweskie-ConverterArrayToJSON)](https://github.com/ReFZero/Fiszki-polsko-norweskie-ConverterArrayToJSON) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-Hibernate)](https://github.com/ReFZero/Sandbox-Hibernate) 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-REST-API)](https://github.com/ReFZero/Sandbox-REST-API) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=refzero&repo=Sandbox-Spring-Security)](https://github.com/ReFZero/Sandbox-Spring-Security)
